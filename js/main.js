@@ -1,5 +1,5 @@
 /* toggle menu */
-// Selecting DOM elements for the header burger menu toggle
+
 const headerBurger = document.querySelector(".header__navigation");
 const menu = document.querySelector(".menu");
 const body = document.querySelector("body");
